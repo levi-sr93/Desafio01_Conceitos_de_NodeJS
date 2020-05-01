@@ -5,12 +5,18 @@
 # Desafio01 - Conceitos de NodeJS
 The first Rocketseat's bootcamp challenge ask to create an application to store projects and their tasks from scratch using [Express](https://expressjs.com/pt-br/).
 
-# Built With
-- [NodeJS](https://nodejs.org/en/)
-- [ExpressJS](https://expressjs.com/pt-br/)
-- [Yarn](https://yarnpkg.com/lang/en/)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-## :memo: Licença
+# Built With
+- [💹 **Node Js** — A JavaScript Runtime](https://nodejs.org/en/)
+- [:chart_with_upwards_trend: ExpressJS - Web Framework for Node](https://expressjs.com/pt-br/)
+- [:loop:Yarn - Package Manager](https://yarnpkg.com/lang/en/)
+
+## :memo: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
 
